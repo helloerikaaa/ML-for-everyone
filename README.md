@@ -1,4 +1,4 @@
-# ML-for-everyone
+# Machine Learning for everyone
 
 This repository's first purpose was to mantain a track of all algorithms I've been implementing during a year or so of doing research projects. But as of writing this algorithms I realized that putting all this code to the public could help somebody out there to understand this models and algorithms, so use it as you want, but would be cool if you star or reference this repository!
 
