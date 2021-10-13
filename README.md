@@ -1,11 +1,18 @@
 # Machine Learning for everyone
 
-This repository's first purpose was to mantain a track of all algorithms I've been implementing during a year or so of doing research projects. But as of writing these algorithms I realized that putting all this code to the public could help somebody out there to understand this models and algorithms, so use it as you want, but would be cool if you star or reference this repository!
+This repository's first purpose was to mantain a track of all algorithms I've been implementing during a year or so of doing research projects. But as of writing these algorithms I realized that putting all this code to the public could help somebody out there to understand the basic Machine Learning algorithms, so use it as you want, but would be cool if you star or reference this repository!
+
+# Prerequisites
+* Python 3.8+
+* Pipenv
+* Basic Machine Learning Knowledge
 
 # Installation
 ```
-git clone https://github.com/helloerikaaa/ML-for-everyone.git
-cd Ml-for-everyone
+$ git clone https://github.com/helloerikaaa/ML-for-everyone.git
+$ cd Ml-for-everyone
+$ pipenv shell
+$ pipenv install
 ```
 # List of implementations
 
@@ -17,6 +24,13 @@ cd Ml-for-everyone
 * [Linear Regression](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/linear_regression.py)
 * [Polynomial Regression](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/polynomial_regression.py)
 
+### Unsupervised Learning
+* [K-Means](https://github.com/helloerikaaa/ML-for-everyone/blob/main/unsupervised_learning/kmeans.py)
+
+
+### Convolutional Neural Network Models
+* [VGG16](https://github.com/helloerikaaa/ML-for-everyone/blob/main/convolutional_networks/vgg16.py)
+* [AlexNet](https://github.com/helloerikaaa/ML-for-everyone/blob/main/convolutional_networks/alexnet.py)
 
 # Reference
 ```
