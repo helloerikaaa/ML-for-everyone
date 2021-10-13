@@ -24,6 +24,6 @@ cd Ml-for-everyone
 
 # Reference
 ```
-[1] Sánchez-Femat, Erika (2021) ML for everyone [Source Code]
+[1] Sánchez-Femat, Erika (2021) Machine Learning for everyone [Source Code]
 https://github.com/helloerikaaa/ML-for-everyone
 ```
