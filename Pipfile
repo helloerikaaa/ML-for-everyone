@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 numpy = "*"
 tqdm = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 autopep8 = "*"
