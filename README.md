@@ -12,6 +12,9 @@ cd Ml-for-everyone
 ### Basic
 * [Perceptron](https://github.com/helloerikaaa/ML-for-everyone/blob/main/basic/perceptron.py)
 
+### Supervised Learning
+* [Naive Bayes](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/naive_bayes.py)
+
 ### Activation Functions
 * [Sigmoid](https://github.com/helloerikaaa/ML-for-everyone/blob/main/basic/perceptron.py)
 
