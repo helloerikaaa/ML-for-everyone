@@ -15,12 +15,7 @@ cd Ml-for-everyone
 ### Supervised Learning
 * [Naive Bayes](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/naive_bayes.py)
 * [Linear Regression](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/linear_regression.py)
-
-### Activation Functions
-* [Sigmoid](https://github.com/helloerikaaa/ML-for-everyone/blob/main/basic/perceptron.py)
-
-### Loss Functions
-* [Square Loss](https://github.com/helloerikaaa/ML-for-everyone/blob/main/utils/loss_functions.py)
+* [Polynomial Regression](https://github.com/helloerikaaa/ML-for-everyone/blob/main/supervised_learning/polynomial_regression.py)
 
 
 # Reference
