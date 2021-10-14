@@ -31,6 +31,7 @@ $ pipenv install
 ### Convolutional Neural Network Models
 * [VGG16](https://github.com/helloerikaaa/ML-for-everyone/blob/main/convolutional_networks/vgg16.py)
 * [AlexNet](https://github.com/helloerikaaa/ML-for-everyone/blob/main/convolutional_networks/alexnet.py)
+* [GoogleNet](https://github.com/helloerikaaa/ML-for-everyone/blob/main/convolutional_networks/googlenet.py)
 
 # Reference
 ```
