@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "bee0846491cb442cf912111eb1845bb455c7330b1d17c8bd1944216026e323fe"
+            "sha256": "e027b5e0893f72cf2cc38e1fdc3bb0cce375758ac2eaa0a667cf5381ba6c81bc"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,6 +16,21 @@
         ]
     },
     "default": {
+        "cloudpickle": {
+            "hashes": [
+                "sha256:5cd02f3b417a783ba84a4ec3e290ff7929009fe51f6405423cfccfadd43ba4a4",
+                "sha256:6b2df9741d06f43839a3275c4e6632f7df6487a1f181f5f46a052d3c917c3d11"
+            ],
+            "markers": "python_version >= '3.6'",
+            "version": "==2.0.0"
+        },
+        "gym": {
+            "hashes": [
+                "sha256:0fd1ce165c754b4017e37a617b097c032b8c3feb8a0394ccc8777c7c50dddff3"
+            ],
+            "index": "pypi",
+            "version": "==0.21.0"
+        },
         "numpy": {
             "hashes": [
                 "sha256:09858463db6dd9f78b2a1a05c93f3b33d4f65975771e90d2cf7aadb7c2f66edf",

@@ -8,6 +8,7 @@ numpy = "*"
 tqdm = "*"
 torch = "*"
 torchvision = "*"
+gym = "*"
 
 [dev-packages]
 autopep8 = "*"
