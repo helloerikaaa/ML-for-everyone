@@ -3,8 +3,8 @@ import numpy as np
 from tqdm import tqdm
 
 
-from utils.activation_functions import Sigmoid
-from utils.loss_functions import SquareLoss
+from activation_functions.sigmoid import Sigmoid
+from loss_functions.square_loss import SquareLoss
 
 class Perceptron():
 
